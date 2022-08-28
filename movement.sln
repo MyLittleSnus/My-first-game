@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movement", "movement\movement.csproj", "{268690EC-1F94-4ECE-A525-90687BE44481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268690EC-1F94-4ECE-A525-90687BE44481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268690EC-1F94-4ECE-A525-90687BE44481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268690EC-1F94-4ECE-A525-90687BE44481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268690EC-1F94-4ECE-A525-90687BE44481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7926D975-E52E-4064-A77C-11F64BCE7736}
+	EndGlobalSection
+EndGlobal
